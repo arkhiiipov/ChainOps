@@ -14,7 +14,7 @@ echo -e "\033[1;34m"
 echo -e " _____________________________________________________________________________________ "
 echo -e "|_____________________________________________________________________________________|"
 echo
-echo -e "\033[1;32mYouTube channel: \033[5;36mhttps://www.youtube.com/c/ChainOps\033[0m"
+echo -e "\033[1;32mYouTube channel: \033[5;36mhttps://www.youtube.com/c/ChainOpsik\033[0m"
 echo -e "\033[1;32mTelegram channel: \033[5;31mhttps://t.me/joinchat/eMERfMCYj1U5Njgy\033[0m"
 echo -e "\033[1;32mCreated by Aleksandr.Arkhipov\033[0m"
 echo -e "\033[0m"
